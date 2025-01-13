@@ -7,4 +7,5 @@ z = x+" "+y+":"+str(100)
 
 w = f"Kazybek Kadyrbay:{n}"
 
-print(w)    
+print(w)
+print(z)    
